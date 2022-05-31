@@ -1,0 +1,1 @@
+ALTER TABLE whist.transactions MODIFY COLUMN unix_date BigInt;
